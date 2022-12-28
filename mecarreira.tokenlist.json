@@ -1,0 +1,33 @@
+{
+  "name": "Mecarreira Token List",
+  "version": {
+    "major": 1,
+    "minor": 4,
+    "patch": 0
+  },
+  "logoURI": "https://dev.mecarreira.com/favicon.ico",
+  "keywords": [
+    "mecarreira",
+    "tokens",
+    "refi"
+  ],
+  "timestamp": "2022-12-28T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Alexis 13 Di Maria",
+      "address": "0x655e630c51413241b8b54a40d9d2dafa51244462",
+      "symbol": "ALDI",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://restapi.mecarreira.com/meCarreira_backend/media/thumb_output_ilRpprt.png"
+    },
+    {
+      "name": "Bart Garfield 13",
+      "address": "0x3047579511962b9697df578ecef96bf6afaf71cc",
+      "symbol": "BAGA",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://restapi.mecarreira.com/meCarreira_backend/media/thumb_output_uR38EQ2.png"
+    }
+  ]
+}
