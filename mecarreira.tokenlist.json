@@ -14,22 +14,6 @@
   "timestamp": "2022-12-28T20:37:00.000+00:00",
   "tokens": [
     {
-      "name": "Fredrick Parker 14",
-      "address": "0x8B7e0eEE6d23Cb3587E29dC038eA6E0CABca57d6",
-      "symbol": "FRPA",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://restapi.mecarreira.com/meCarreira_backend/media/thumb_output_ilRpprt.png"
-    },
-    {
-      "name": "Bart Garfield 13",
-      "address": "0x3047579511962b9697df578ecef96bf6afaf71cc",
-      "symbol": "BAGA",
-      "decimals": 18,
-      "chainId": 80001,
-      "logoURI": "https://restapi.mecarreira.com/meCarreira_backend/media/thumb_output_uR38EQ2.png"
-    },
-    {
       "name": "Soren Cosmo",
       "address": "0x057c8b981d05e104f0163d287e867d29a6db05ca",
       "symbol": "SOCO",
