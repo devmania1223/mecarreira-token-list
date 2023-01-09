@@ -28,6 +28,14 @@
       "decimals": 18,
       "chainId": 80001,
       "logoURI": "https://restapi.mecarreira.com/meCarreira_backend/media/thumb_output_uR38EQ2.png"
-    }
+    },
+    {
+      "name": "Soren Cosmo",
+      "address": "0x057c8b981d05e104f0163d287e867d29a6db05ca",
+      "symbol": "SOCO",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://restapi.mecarreira.com/meCarreira_backend/media/thumb_output_ArxxHhq.png"
+      }   
   ]
 }
